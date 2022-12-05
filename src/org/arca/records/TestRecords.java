@@ -1,8 +1,10 @@
 package org.arca.records;
 
-record Retangulo(double largura, double altura) {
+class Figura2d {
 	
 }
+
+record Retangulo(double largura, double altura){}
 
 public class TestRecords {
 	
