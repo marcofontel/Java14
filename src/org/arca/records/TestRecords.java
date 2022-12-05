@@ -1,8 +1,7 @@
 package org.arca.records;
 
-class Figura2d {
-	
-}
+
+
 
 record Retangulo(double largura, double altura){}
 
